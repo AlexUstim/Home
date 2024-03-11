@@ -130,7 +130,8 @@
     <ClCompile Include="Homework.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\.gitignore" />
+    <None Include="new catal\index.html" />
+    <None Include="new catal\index.js" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
